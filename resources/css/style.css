@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: blue;
+}
+.navigation {
+  text-align: center;
+}
+.process , .work , .team , .contact {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
