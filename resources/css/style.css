@@ -1,13 +1,76 @@
 body {
   text-align: center;
-  background-color: blue;
+  background-color: ffffff;
 }
-.navigation {
+.navigation  {
   text-align: center;
+  background-image: url('/Users/melissahigareda/Documents/code.academy/projects/BroadwayDesign/resources/img/the-flatiron-building.png');
+  color: white;
 }
 .process , .work , .team , .contact {
   text-align: center;
 }
 h1 {
   text-align: center;
+  color: white;
+}
+h2 {
+  font-size: 32px;
+  color: black;
+  font-family: helvetica;
+  font-weight: bold;
+}
+h3 {
+    font-family: helvetica;
+    font-size: 23px;
+    font-weight: bold;
+}
+p {
+  font-family: helvetica;
+  font-size: 14px;
+}
+.navigation h1 {
+  font-size: 70px;
+  font-family: helvetica;
+  font-weight: bold;
+}
+.navigation {
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+.white {
+  background-color: white;
+  width: 100%;
+}
+
+ul {
+  list-style-type: none;
+}
+h2#ny {
+  background-image: url('/Users/melissahigareda/Documents/code.academy/projects/BroadwayDesign/resources/img/the-flatiron-building.png');
+  color: #ffffff;
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+ul.footer {
+  display:block;
+  horizontal-align:left;
+
+}
+
+.footer {
+  background-image: url('/Users/melissahigareda/Documents/code.academy/projects/BroadwayDesign/resources/img/the-flatiron-building.png');
+  color: #ffffff;
+  text-align: left;
+  font-size: 11px;
+  background: dimgray;
+  font-family: helvetica;
 }
